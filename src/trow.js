@@ -1,5 +1,5 @@
 import React from 'react';
-import { faker } from 'https://cdn.skypack.dev/@faker-js/faker';
+import { faker } from '@faker-js/faker';
 const Trow = ({name,resource,age}) => {
     return (
            <tr className="ui very basic collapsing celled table">
